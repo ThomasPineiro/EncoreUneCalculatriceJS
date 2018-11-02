@@ -1,0 +1,14 @@
+#calcBackground {
+    background-color: blueviolet;
+}
+
+#inputScreen {
+    background-color: white;
+}
+
+#lol{
+    background-image: url('../lol.png');
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat
+}
