@@ -7,7 +7,7 @@
 }
 
 #lol{
-    background-image: url('lol.png');
+    background-image: url('../lol.png');
     background-position: bottom;
     background-size: contain;
     background-repeat: no-repeat
