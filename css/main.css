@@ -10,5 +10,7 @@
     background-image: url('../lol.png');
     background-position: bottom;
     background-size: contain;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+    height: 20em;
+    width: 35em;
 }
